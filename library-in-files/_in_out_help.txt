@@ -1,0 +1,18 @@
+6 2 7 - books, libs, days
+1 2 3 6 5 4 - scores
+
+libs:
+5 2 2 - no of books, no of days for signup, shipped
+0 1 2 3 4 - book ids
+
+4 3 1 -
+0 2 3 5
+
+
+
+====== SOLUTION:
+
+no of libs to signup
+[lib ID; no of books
+IDS of books]
+...
